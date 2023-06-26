@@ -1,4 +1,4 @@
-# API de Controle de Estoque e Produtos SPRING BOOT
+# API de Controle de Estoque e Produtos SPRING BOOT - JAVA
 
 Este repositório contém a documentação da API de Controle de Estoque e Produtos, que permite gerenciar o estoque de produtos e realizar operações relacionadas, como registro de usuários, autenticação, adição, alteração e remoção de estoques e produtos.
 
